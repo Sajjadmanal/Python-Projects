@@ -19,7 +19,7 @@ def prin_till_N1(x):
 # Using //2
 def prin_till_N2(x):
     for num in range(2, x + 1):
-        for i in range(2, num//2+1):
+        for i in range(2, (num//2)+1):
             if (num % i) == 0:
                 break
         else:
