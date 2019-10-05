@@ -1,4 +1,3 @@
-
 """
 Let there be a minefield of dimension (a,b) with m mines. 
 You have to avoid going on places with mines.
